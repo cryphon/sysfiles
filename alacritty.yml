@@ -1,0 +1,13 @@
+window:
+  opacity: 0.2
+  padding: 
+    x: 15
+    y: 15
+  class:
+    instance: Alacritty
+    general: Alacritty
+  
+scrolling:
+  history: 10000
+  multiplier: 3
+
